@@ -1,0 +1,9 @@
+{
+  "url": "https://www.index.go.kr/robots.txt",
+  "target_url": "https://www.index.go.kr/unity/potal/main/EachDtlPageDetail.do?idx_cd=1073",
+  "checked_at_utc": "2026-09-27T04:57:38.480966+00:00",
+  "http_status": 404,
+  "allowed_for_target": null,
+  "method": "외부 웹 조회 도구로 robots.txt 요청(분석 환경의 네트워크 프록시가 index.go.kr 직접 접속을 막아 check_robots() 대신 사용). 인터넷이 되는 PC에서 --offline --check-robots를 실행하면 코드 판정으로 덮어씀",
+  "note": "robots.txt 없음(404) = 수집 금지 표시 없음. 허용으로 간주하지 않고 1회 요청·원본 재사용 원칙 유지"
+}

@@ -1,0 +1,52 @@
+{
+  "source": "Bank of Korea ECOS Open API StatisticSearch",
+  "cycle": "D",
+  "start": "20220101",
+  "end": "20230630",
+  "retrieved_at_utc": "2026-09-23T06:11:31.334152+00:00",
+  "api_key_stored": false,
+  "files": {
+    "treasury_3y_pct": {
+      "stat_code": "817Y002",
+      "item_code": "010200000",
+      "name": "국고채(3년)",
+      "rows": 370,
+      "sha256": "c066f63017107a6da92bba1ea9197f544290a8e7af56f84e9839ab1800798f35"
+    },
+    "corp_aa_minus_3y_pct": {
+      "stat_code": "817Y002",
+      "item_code": "010300000",
+      "name": "회사채(3년, AA-)",
+      "rows": 370,
+      "sha256": "d120f6e29e680ccf4408e8ce0a990b26ab6f35121b14ede21a534069c7121ab5"
+    },
+    "corp_bbb_minus_3y_pct": {
+      "stat_code": "817Y002",
+      "item_code": "010320000",
+      "name": "회사채(3년, BBB-)",
+      "rows": 370,
+      "sha256": "b71744101718b2bdf61fa989d18e59d4d2b56b72c437629d1b937fb636c2b4fe"
+    },
+    "cd_91d_pct": {
+      "stat_code": "817Y002",
+      "item_code": "010502000",
+      "name": "CD(91일)",
+      "rows": 370,
+      "sha256": "b2dc330aba0c0ff109f8833641d708333348aca55663822e778a231335627c6d"
+    },
+    "cp_91d_pct": {
+      "stat_code": "817Y002",
+      "item_code": "010503000",
+      "name": "CP(91일)",
+      "rows": 370,
+      "sha256": "3f61d8b3a42417c678f3e5211478bf04cf491ef61f227077f6a4e9cb344702a1"
+    },
+    "base_rate_pct": {
+      "stat_code": "722Y001",
+      "item_code": "0101000",
+      "name": "한국은행 기준금리",
+      "rows": 546,
+      "sha256": "1eefe1d75a495a613503b62afb92d63dd2cfd4ccabc7d81f404ba25c1665e8a6"
+    }
+  }
+}

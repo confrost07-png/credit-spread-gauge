@@ -1,0 +1,24 @@
+{
+  "extracted_rows": 180,
+  "clean_months": 60,
+  "analysis_months": 18,
+  "duplicate_keys": 0,
+  "missing_rates": 0,
+  "series": [
+    "treasury_3y_pct",
+    "corp_aa_minus_3y_pct",
+    "cd_91d_pct"
+  ],
+  "expected_analysis_months": 18,
+  "missing_months": 0,
+  "full_period": "2019-01~2023-12",
+  "full_period_missing_months": 0,
+  "initial_change_missing_intentionally": true,
+  "imputation": "none",
+  "outlier_removal": "none",
+  "rounding": "수익률 원문 소수 2자리. 스프레드 정밀도 약 1bp이며 과도한 자릿수 해석 금지.",
+  "monthly_vs_ecos_mean_max_diff_pctpt": 0.010000000000000009,
+  "monthly_vs_ecos_month_end_max_diff_pctpt": 0.43500000000000005,
+  "monthly_basis_months_compared": 18,
+  "monthly_basis": "월평균"
+}

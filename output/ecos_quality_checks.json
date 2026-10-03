@@ -1,0 +1,13 @@
+{
+  "ecos_raw_rows": 2396,
+  "ecos_blank_values_dropped": 0,
+  "ecos_market_days": 370,
+  "ecos_missing_after_align": {
+    "treasury_3y_pct": 0,
+    "corp_aa_minus_3y_pct": 0,
+    "corp_bbb_minus_3y_pct": 0,
+    "cd_91d_pct": 0,
+    "cp_91d_pct": 0
+  },
+  "ecos_imputation": "base_rate_pct만 직전 값 유지(ffill), 시장금리는 대체 없음"
+}
